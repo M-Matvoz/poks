@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "TDM-GCC",
+            "includePath": ["${workspaceFolder}/src/**"],
+            "compilerPath": "C:/TDM-GCC-32/bin/gcc.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
